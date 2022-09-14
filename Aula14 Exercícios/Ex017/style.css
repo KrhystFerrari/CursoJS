@@ -1,5 +1,5 @@
 body {
-    background: #4747ee;
+    background: #d0410d;
     font: normal 15pt Arial;
 }
 
@@ -23,3 +23,23 @@ footer {
     font-style: italic;
 }
 
+p {
+    text-align: center;
+    font: normal 16pt Arial;
+}
+
+input {
+    font: normal 12pt Arial;
+}
+
+div#res{
+    font: normal 16pt Arial;
+}
+
+div {
+    text-align: center;
+}
+
+option {
+    font: normal 12pt Arial;
+}
