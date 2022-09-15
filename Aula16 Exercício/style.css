@@ -1,0 +1,49 @@
+body {
+    background: #4cea91;
+    font: normal 15pt Arial;
+}
+
+header {
+    color: #000;
+    text-align: center;
+}
+
+section {
+    background: #ffff;
+    border-radius: 10px;
+    padding: 50px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
+}
+
+footer {
+    color: #000;
+    text-align: center;
+    font-style: italic;
+}
+
+
+select#flista {
+    width: 170px;
+}
+
+select {
+    margin-left: 130pt;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+input {
+    font: normal 11pt Arial;
+}
+
+div {
+    font-weight: bold;
+}
+
+input#fim {
+    margin-left: 165pt;
+}
